@@ -13,4 +13,4 @@ Client.on('ready' , async ( client ) => {
 })
 
 //conectar
-Client.login('MTEyNzY1MTUwNjYxOTk2MTM4NA.Glr9oI.DYjMreRuxCzRUYwRB3UVmbDBrlCCfmlqQcT4VU')
+Client.login('MTEyNzY1MTUwNjYxOTk2MTM4NA.GHzeUC.FmYdy2IX_WCd0fZNNPFvFnRUgiZxzj_ikgXt88')
